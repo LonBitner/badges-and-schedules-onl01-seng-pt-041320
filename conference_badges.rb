@@ -1,5 +1,4 @@
 people = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
-room = ["1", "2"]
 
 def batch_badge_maker(name)
   return "Hello, my name is #{name}."
