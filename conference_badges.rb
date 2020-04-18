@@ -19,4 +19,5 @@ def assign_rooms(array)
     new_array << ("Hello, #{name}! You'll be assigned to room #{counter}")
   end
   return new_array
+  
 end
