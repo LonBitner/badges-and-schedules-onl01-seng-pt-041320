@@ -1,6 +1,5 @@
 
-def batch_badge_creator(name)
-batch_badge_creator ("Lon")
-return "Hello, my name is #{name}."
-
+def batch_badge_creator(array)
+  return "Hello, my name is #{name}."
 end
+
